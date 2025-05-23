@@ -1,2 +1,3 @@
 {"type":"completion","id":"res-002","role":"tool","origin":"tool","content":null,"toolResponse":{"tool":"query_calendar","result":[{"title":"Reunión DAM","date":"2025-05-23","time":"10:00"},{"title":"Clase de alemán","date":"2025-05-23","time":"18:00"}]}}
 {"type":"completion","id":"res-002","role":"tool","origin":"tool","content":null,"toolResponse":{"tool":"query_calendar","result":[{"title":"Reunión DAM","date":"2025-05-23","time":"11:00"},{"title":"Clase de alemán","date":"2025-05-23","time":"18:00"}]}}
+{"type":"completion","id":"res-002","role":"tool","origin":"tool","content":null,"toolResponse":{"tool":"query_calendar","result":[{"title":"Reunión DAM","date":"2025-05-23","time":"11:00"},{"title":"Clase de alemán","date":"2025-05-23","time":"18:00"}]}}

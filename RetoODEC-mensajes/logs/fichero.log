@@ -1,2 +1,13 @@
 [COMPLETION] ID: res-002 | Rol: tool | Content: null
 [COMPLETION] ID: res-002 | Rol: tool | Content: null
+[COMPLETION] ID: res-002 | Rol: tool | Content: null
+[TASKREQUEST] ID: req-001 | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-001 | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-001 | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-NaN | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-NaN | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-NaN | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-1 | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-1 | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-1 | Rol: user | Input: Reunion mañana a las 10
+[TASKREQUEST] ID: req-2 | Rol: user | Input: Reunion mañana a las 10
